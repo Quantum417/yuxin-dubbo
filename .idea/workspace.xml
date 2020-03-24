@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09cc3f19-02c6-48f5-a46a-2dbba1d12f17" name="Default Changelist" comment="" />
+    <list default="true" id="09cc3f19-02c6-48f5-a46a-2dbba1d12f17" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +38,7 @@
     <option name="skipTests" value="true" />
   </component>
   <component name="ProjectId" id="1ZZs5woJADswg2xIom6Jv2EoYvc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -53,6 +56,7 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -180,7 +184,7 @@
       <workItem from="1585063614962" duration="1182000" />
       <workItem from="1585065920502" duration="2275000" />
       <workItem from="1585068869918" duration="1284000" />
-      <workItem from="1585070249978" duration="843000" />
+      <workItem from="1585070249978" duration="1471000" />
     </task>
     <servers />
   </component>
