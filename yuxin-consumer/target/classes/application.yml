@@ -1,0 +1,10 @@
+server:
+  port: 9001
+
+dubbo:
+  scan:
+    basePackages: com.yuxin.dubbo.service
+  application:
+    name: user-consumer
+  registry:
+    address: zookeeper://192.168.231.128:2181
